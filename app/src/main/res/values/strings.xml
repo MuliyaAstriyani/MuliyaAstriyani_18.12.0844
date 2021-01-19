@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Git User</string>
+    <string name="follower">follower</string>
+    <string name="following">following</string>
+    <string name="search">search</string>
+    <string name="setting">setting</string>
+    <string name="bahasa">bahasa</string>
+    <string name="search_hint">search_hint</string>
+</resources>
